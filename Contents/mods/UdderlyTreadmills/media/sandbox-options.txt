@@ -1,0 +1,31 @@
+VERSION = 1,
+
+option UdderlyTreadmills.GivesFitnessLevel = {
+	type = boolean, 
+	default = true,
+	page = UdderlyTreadmills, 
+	translation = UdderlyTreadmills_GivesFitnessLevel,
+}
+
+option UdderlyTreadmills.GivesStrengthLevel = {
+	type = boolean, 
+	default = true,
+	page = UdderlyTreadmills, 
+	translation = UdderlyTreadmills_GivesStrengthLevel,
+}
+
+option UdderlyTreadmills.GivesSprintingLevel = {
+	type = boolean,
+	default = true,
+	page = UdderlyTreadmills, 
+	translation = UdderlyTreadmills_GivesSprintingLevel,
+}
+
+option UdderlyTreadmills.UsageTime = {
+	type = double,
+	min = 1,
+	max = 10000,
+	default = 2880,
+	page = UdderlyTreadmills,
+	translation = UdderlyTreadmills_UsageTime,
+}

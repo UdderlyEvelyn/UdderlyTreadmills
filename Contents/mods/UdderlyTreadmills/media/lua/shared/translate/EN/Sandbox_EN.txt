@@ -1,0 +1,7 @@
+Sandbox_EN = {
+	Sandbox_UdderlyTreadmills = "Udderly Treadmills",
+	Sandbox_UdderlyTreadmills_GivesFitnessLevel = "Gives Fitness Level",
+	Sandbox_UdderlyTreadmills_GivesStrengthLevel = "Gives Strength Level",
+	Sandbox_UdderlyTreadmills_GivesSprintingLevel = "Gives Sprinting Level",
+	Sandbox_UdderlyTreadmills_UsageTime = "Usage Time",
+}
